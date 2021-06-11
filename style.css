@@ -1,0 +1,175 @@
+
+
+body{
+
+	background-color: #F1F4C2;
+	color: #0A0727;
+	margin: 0px;
+	
+	font-family: 'Lato', sans-serif;
+	text-align: center;
+	line-height: : 1.8px;
+
+	
+
+}
+#CTA{
+	    font-size: 50px;
+}
+
+#descripcion{
+	text-align: center;
+	font-size: 25px;
+	padding: 25px 30px 30px 30px;
+	margin-left: auto;
+}
+
+
+#aclaracion{
+	   
+	  background-color: rgba(221,179,30,0.4);
+	  align-content: center;
+	 
+	  height: 250px;
+	  padding: 25px 30px 30px 30px;
+	  margin: 400px;
+	  margin-bottom: 100px;
+	  border: 3px solid rgba(10,7,39, 0.2);
+	  border-radius: 7px;
+	  box-shadow: 5px 5px 6px rgba(0,0,0,0.5)
+
+
+}
+
+.class= "acl-pr"{
+	font-size: 50px;
+}
+
+#explicaciones{
+	
+	font-size: 20px;
+	padding: 50px;
+	
+}
+
+
+#logo{
+	width: 300px;
+	text-align: center;
+	
+}
+
+li{
+	text-align: center;
+}
+
+
+
+h3{
+	padding-left: 80px;
+
+}
+
+h4{
+	padding-left: 100px;
+}
+
+div{
+	padding: 20px;
+	text-align: center;
+	color: #0A0727;
+
+}
+
+#precios{
+	margin: 0 auto;
+}
+
+th, td {
+  border-bottom: 1px solid #0A0727;
+  text-align: center;
+}
+
+th{
+text-align: center;
+
+}
+ table{
+
+  object-position: center;
+ padding: 70px;
+ margin: 0 auto;
+ width: 90%;
+
+ }
+
+tr:hover {background-color: #DDB31E;}
+
+h1{
+	text-align: initial;
+	font-family: 'Hammersmith One', sans-serif;
+	padding-top: 30px;
+	font-size: 100px;
+}
+
+
+h3{
+	font-family: 'Hammersmith One', sans-serif;
+	font-size: 25px;
+	text-align: center;
+	padding: 10px;
+
+
+}
+
+
+
+p{
+color: #0A0727;
+
+	
+}
+
+#redes{
+text-align: center;
+
+}
+
+
+ul{
+  list-style-type: none;
+  background-color: #0A0727;
+  color: #F1F4C2;
+  font-weight: bold;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  text-align: center;
+
+}
+
+
+  
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: #DDB31E;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+ 
+li a:hover {
+	color: #0A0727;
+
+}
+
+body{
+	align-content: center;
+	justify-content: center;
+}
